@@ -1,8 +1,15 @@
-- Hi there, I am Umut Uygur \n
--📖 Computer engineering sophomore, open to work and internships  \n
--🖥️ I am an enthusiastic, hardworking, and entrepreneurial full-stack developer. \n
--👀 I am interested in coding in every field, but especially artificial intelligence \n
--🌱 I am currently learning Java and Python \n
--📧 How can you reach me @umuttuygurr@gmail.com \n
--⚡ Fun fact: my girlfriend likes my codes \n
+- Hi there, I am Umut Uygur
+- 
+-📖 Computer engineering sophomore, open to work and internships
+
+-🖥️ I am an enthusiastic, hardworking, and entrepreneurial full-stack developer. 
+
+-👀 I am interested in coding in every field, but especially artificial intelligence 
+
+-🌱 I am currently learning Java and Python 
+
+-📧 How can you reach me @umuttuygurr@gmail.com 
+
+-⚡ Fun fact: my girlfriend likes my codes 
+
 
