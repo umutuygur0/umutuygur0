@@ -1,5 +1,6 @@
-- Hi there, I am Umut Uygur
-- 
+
+-Hi there, I am Umut Uygur
+
 -📖 Computer engineering sophomore, open to work and internships
 
 -🖥️ I am an enthusiastic, hardworking, and entrepreneurial full-stack developer. 
